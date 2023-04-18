@@ -1,7 +1,7 @@
 ---
 title: '最新ChatGPT成功注册方法'
 data: 2035-09-01
-description: '三分钟教你成功注册ChatGPT'
+description: '教你成功注册ChatGPT'
 author: '98K'
 tags: ["ChatGPT", "OpenAI" ]
 toc: true
