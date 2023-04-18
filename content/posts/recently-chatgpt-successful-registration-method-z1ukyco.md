@@ -1,20 +1,18 @@
 ---
 title: 最近ChatGPT成功注册方法
 slug: recently-chatgpt-successful-registration-method-z1ukyco
-url: /post/recently-chatgpt-successful-registration-method-z1ukyco.html
+url: /posts/recently-chatgpt-successful-registration-method-z1ukyco.html
 tags:
-  - OpenAI
-  - chatGPT
+  + OpenAI
+  + chatGPT
 categories: []
 lastmod: '2023-04-18 13:04:50'
 toc: true
-keywords: OpenAI,chatGPT
+keywords: OpenAI, chatGPT
 description: >-
   最近chatgpt成功注册方法本文介绍目前可以成功注册openai的chatgpt的方法。你需要没有被openai限制的科学上网梯子谷歌邮箱账号sms短信验证。我方实验使用小日子ip谷歌邮箱smsactivateorg接码平台印尼号码成功注册。网络环境openai为了限制我方人员注册封了大陆香港的访问权限并且之前有封控部分亚洲地区的账号。目前注册各种检测机制非常严格。如果你没有自建或者购买的机场梯子是不行的这里推荐ssrdog只要注册就送小时的体验机场主要是解锁了openai的风控。先注册他们的账号按说明
 isCJKLanguage: true
 ---
-
-# 最近ChatGPT成功注册方法
 
 本文介绍目前可以成功注册 OpenAI 的 chatgpt 的方法。你需要没有被openai限制的科学上网梯子、谷歌邮箱账号、sms短信验证。我方实验使用小日子IP、谷歌邮箱、[sms-activate.org](https://sms-activate.org/?ref=6495018) 接码平台印尼号码成功注册。
 
@@ -40,7 +38,11 @@ chrome浏览器隐身模式打开新标签。
 
 我方测试人员试了很多免费的接码平台，无一例外都是  此号码以达到最大绑定数，因此强烈推荐[sms-activate.org](https://sms-activate.org/?ref=6495018)接码平台俄罗斯方的网站有中文。需要充值2刀大概十几元，支持支付宝。
 
-​![3_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805404.png)​
+​
+
+![3_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805404.png)
+
+​
 
 ![4_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805376.png)
 
@@ -50,13 +52,29 @@ chrome浏览器隐身模式打开新标签。
 
 打开[ https://chat.openai.com/](https://chat.openai.com/) **注意直接选择 login 登录**。会检测你的网络环境，直接选择 continue with Google 选择你刚注册的Email账号，会有一系列检查后让你设置一下出生日期。
 
-​![5_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805062.png)​
+​
 
-​![6_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805763.png)​
+![5_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805062.png)
 
-​![7_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806472.png)​
+​
 
-​![8_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806162.png)​
+​
+
+![6_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171805763.png)
+
+​
+
+​
+
+![7_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806472.png)
+
+​
+
+​
+
+![8_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806162.png)
+
+​
 
 终于到了验证码环节，这个过了就成功注册了。
 
@@ -64,18 +82,36 @@ chrome浏览器隐身模式打开新标签。
 
 ![9_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806783.png)
 
-​![10_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806108.png)
+​
 
-​![11_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806146.png)​
+![10_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806108.png)
 
-![12_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806482.png)​
+​
+
+![11_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806146.png)
+
+​
+
+![12_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806482.png)
+
+​
 
 回到 openai 国家选印尼西亚（注: 国家英文名不好找 右键选择翻译成简体中文即可）  WhatsApp 选不 ，粘贴号码 删除前面的 62 ，发送短信然后去接码平台，稍等一下即可看到验证码，记住过来输入一下即可。当你看到就注册成功了。
 
-​![13_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806918.png)
+​
 
-​![14_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806440.png)  
-​![15_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806154.png)​
+![13_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806918.png)
+
+​
+
+![14_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806440.png)
+
+  
+​
+
+![15_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806154.png)
+
+​
 
 发消息提示错误，刷新一下页面即可。
 
@@ -83,13 +119,23 @@ chrome浏览器隐身模式打开新标签。
 
 打开 [https://platform.openai.com/](https://platform.openai.com/) 按照下面的步骤操作。
 
-​![17_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806639.png)
+​
 
-​![16_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806263.png)
+![17_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806639.png)
 
-​![18_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806936.png)
+​
 
-​![19_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806731.png)​​​​
+![16_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806263.png)
+
+​
+
+![18_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806936.png)
+
+​
+
+![19_chatgpt](https://cdn.staticaly.com/gh/3zmx/somepic@master/pic/202304171806731.png)
+
+​​​​
 
 注意 key 只显示一次，忘记了只能删除重新生成，请复制下来记录。
 
