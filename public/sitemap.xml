@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://98k.pages.dev/</loc>
+    <lastmod>2023-04-18T13:04:50+00:00</lastmod>
+  </url><url>
+    <loc>https://98k.pages.dev/tags/chatgpt/</loc>
+    <lastmod>2023-04-18T13:04:50+00:00</lastmod>
+  </url><url>
+    <loc>https://98k.pages.dev/tags/openai/</loc>
+    <lastmod>2023-04-18T13:04:50+00:00</lastmod>
+  </url><url>
+    <loc>https://98k.pages.dev/posts/</loc>
+    <lastmod>2023-04-18T13:04:50+00:00</lastmod>
+  </url><url>
+    <loc>https://98k.pages.dev/tags/</loc>
+    <lastmod>2023-04-18T13:04:50+00:00</lastmod>
+  </url><url>
+    <loc>https://98k.pages.dev/posts/recently-chatgpt-successful-registration-method-z1ukyco.html</loc>
+    <lastmod>2023-04-18T13:04:50+00:00</lastmod>
+  </url><url>
     <loc>https://98k.pages.dev/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://98k.pages.dev/</loc>
-  </url><url>
     <loc>https://98k.pages.dev/categories/</loc>
-  </url><url>
-    <loc>https://98k.pages.dev/tags/chatgpt/</loc>
-  </url><url>
-    <loc>https://98k.pages.dev/tags/openai/</loc>
-  </url><url>
-    <loc>https://98k.pages.dev/posts/</loc>
-  </url><url>
-    <loc>https://98k.pages.dev/tags/</loc>
-  </url><url>
-    <loc>https://98k.pages.dev/posts/chatgpt-reg/</loc>
   </url>
 </urlset>
