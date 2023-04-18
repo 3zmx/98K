@@ -3,8 +3,10 @@ title: 最近ChatGPT成功注册方法
 slug: recently-chatgpt-successful-registration-method-z1ukyco
 url: /posts/recently-chatgpt-successful-registration-method-z1ukyco.html
 tags:
-  + OpenAI
-  + chatGPT
+
+    OpenAI
+    ChatGPT
+
 categories: []
 lastmod: '2023-04-18 13:04:50'
 toc: true
